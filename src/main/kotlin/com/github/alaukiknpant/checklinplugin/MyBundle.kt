@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.alaukiknpant.checklinplugin
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
